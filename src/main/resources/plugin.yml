@@ -9,3 +9,6 @@ commands:
   startPlugin:
     description: starts the plugin
     usage: /<command>
+  setSpawnTime:
+    description: change the time needed to spawn momo
+    usage: /<command>
