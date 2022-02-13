@@ -1,0 +1,11 @@
+name: MomosCurse
+version: '${project.version}'
+main: me.hotpandacoding.momoscurse.MomosCurse
+api-version: 1.18
+authors: [ HotPandaCoding ]
+description: getting hunted by momos sisters
+website: https://github.com/HotPandaCoding
+commands:
+  startPlugin:
+    description: starts the plugin
+    usage: /<command>
